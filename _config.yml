@@ -198,7 +198,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: /meetingnotes/5
+paginate: /meetingnotes/page:5/
 
 kramdown:
   input: GFM
