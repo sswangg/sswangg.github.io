@@ -4,7 +4,7 @@ title: Pihi Compsci
 subtitle: All about the best club at Pioneer
 ---
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](assets/img/placeholddr.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
 Pihi Compsci is a computer science oriented club at Pioneer High School where students mess around with code, go to coding competitions, and have fun. Anyone with an interest in programming is encouraged to join, and no experience is required.
 
@@ -20,7 +20,6 @@ Note: make a contact us page... maybe. I mean, email works fine and why fix some
 > test
 
 ```python
-<!-- file: `test/test.py` -->
 def test1():
   print("test")
 
