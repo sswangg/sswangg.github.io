@@ -16,10 +16,13 @@ author: Sophia Wang
 navbar-links:
   About: index
   Resources:
-    - Get Started: "getstarted"
-    - Comp Programming: "compprogramming"
-  Calendar: "calendar"
-  Meeting Notes: "meetingnotes"
+    - Get Started: getstarted
+    - CS at Pio: csatpio
+  #  - Cool Stuff: coolstuff
+  #  - Comp Coding: compprogramming
+  Calendar: calendar
+  #Meeting Notes: meetingnotes
+  Contact Us: contactus
 
 
 # --- Logo --- #
@@ -42,28 +45,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "s.sophi.w@gmail.com"
-#  facebook: deanattali
   github: sswangg
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-  instagram: 5pectating_5pecter
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  instagram: pihicompsci
   discord: https://discord.com/invite/igmc
 
 # If you want to show a link to an RSS in the footer, add the site description here.
@@ -93,7 +76,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "pioneer,pihi compsci,coding club,computer science,programming"
