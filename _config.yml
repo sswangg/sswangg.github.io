@@ -14,7 +14,7 @@ author: Sophia Wang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: 
+  About: ''
   Resources:
     - Get Started: getstarted
     - CS at Pio: csatpio
