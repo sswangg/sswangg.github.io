@@ -4,6 +4,7 @@ title: Pihi Compsci
 subtitle: All about the best club at Pioneer
 ---
 <link rel="canonical" href="https://sswangg.github.io" />
+<meta name="google-site-verification" content="5h7MS-2KRC28ve9OUpB4c5lVCsGrTMQ_qVVNCeY1xzU" />
 ![Placeholder](/assets/img/placeholder.jpg){: .mx-auto.d-block :}
 
 Pihi Compsci is a computer science oriented club at Pioneer High School where students mess around with code, go to coding competitions, and have fun. Anyone with an interest in programming is encouraged to join, and no experience is required.
