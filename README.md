@@ -14,3 +14,4 @@ There aren't any glaring functionality issues but
 - I tried to make the nav-bar text semi-transparent and become solid white when you hover on one. The exact opposite happened. It looks pretty cool though so it's not really an issue
 - ~~The titles are too big~~ Done
 - ~~Google SEO optimization~~ Done
+- Resources is unfinished
