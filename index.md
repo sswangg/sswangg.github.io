@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Pihi Compsci
+title: PiHi CompSci
 subtitle: All about the best club at Pioneer
 ---
 
-![Placeholder](/assets/img/placeholder.jpg){: .mx-auto.d-block :}
+![Placeholder](/assets/img/image.jpg){: .mx-auto.d-block :}
 
-Pihi Compsci is a computer science oriented club at Pioneer High School where students mess around with code, go to coding competitions, and have fun. Anyone with an interest in programming is encouraged to join, and no experience is required.
+PiHi CompSci is a computer science oriented club at Pioneer High School where students mess around with code, go to coding competitions, and have fun. Anyone with an interest in programming is encouraged to join, and no experience is required.
 
 One of the main focuses of the club is competitive programming, which is a mind sport where participants write programs to solve problems and are judged off of factors such as how long the program takes to run, how quickly you finish, and how much memory the program takes. Pioneer has historically had success at programming competitions like this as can be seen in this [news article](https://news.a2schools.org/pioneer-high-school-coding-team-excels-at-recent-competitions/). We **_CRUSHED_** the competiton at MSU last year too, but the details slipped away. Blame covid. 
 
