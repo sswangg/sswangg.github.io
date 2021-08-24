@@ -80,12 +80,12 @@ hr.small {
 }
 
 ::-moz-selection {
-  color: #fff;
+  color: rgb(0, 0, 0);
   text-shadow: none;
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
 ::selection {
-  color: #fff;
+  color: rgb(0, 0, 0);
   text-shadow: none;
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
