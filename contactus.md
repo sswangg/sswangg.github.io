@@ -4,7 +4,7 @@ title: Contact Us
 ---
 
 ## Contact Information
-Our staff representitive is Ted Emch who can be reached at [emch@aaps.k12.mi.us](mailto:emch@aaps.k12.mi.us) and the student president is Sophia Wang who can be reached at [s.sophi.w@gmail.com](mailto:s.sophi.w@gmail.com). Feel free to reach out with any questions, complaints, or suggestions you might have.
+Our staff representitive is Ted Emch who can be reached at [emch@aaps.k12.mi.us](mailto:emch@aaps.k12.mi.us) and the student president is Sophia Wang who can be reached at [314660@aaps.k12.mi.us](mailto:s.sophi.w@gmail.com). Feel free to reach out with any questions, complaints, or suggestions you might have.
 
 Don't worry about contacting anyone if you just want to join the club, but feel free to ask about helping to run the club. You can even get a fancy title! There's plenty to get done, such as:
 - Promotion

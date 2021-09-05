@@ -3,9 +3,10 @@ layout: page
 title: Getting Started
 ---
 
+### Learn to Code
+
 Learning programming from scratch can be a daunting task. Fortunately, there are many resources that can help you get started!
 
-### Learn to Code
 - [Codecademy](https://www.codecademy.com/) offers free and paid interactive lessons for a variety of languages and topics
 - [freeCodeCamp](https://www.freecodecamp.org/) is, well, very free. It focuses on web development and python. They also have a [YouTube channel](https://www.youtube.com/c/freecodecamp). It's considered by many to be too easy but that's not necessarily a bad thing.
 - [The Odin Project](https://www.theodinproject.com/) is another one for if you want to learn how to make websites. It's considered better than freeCodeCamp but also requires more committment.
@@ -15,10 +16,16 @@ Learning programming from scratch can be a daunting task. Fortunately, there are
 - [Khan Academy](https://www.khanacademy.org/computing) has lessons on how to code too! 
 - [Sololearn](https://www.sololearn.com/home) is a great resource for if you want to learn a specific language. Marcus, the previous president, recommended going through Sololearn for basics then moving on to introductory problems on [Hackerrank](https://www.hackerrank.com/)
 - [edX](https://www.edx.org/) is just great and you can find everything on it
+- Last but not least is this [python book](http://openbookproject.net/thinkcs/python/english3e/index.html). Python is a great language to start with and this is a great book if you're a really motivated reader.
 
-Note that this is not a comprehensive list by any means. 
-
-If you're really indecisive, just do CS50 for an overview of cs, The Odin Project for web development, Sololearn + Hackerrank for a specific language, and edX for anything else. 
+Please note that this is not a comprehensive list by any means. 
 
 ### Coding Communities
 
+Coding communities can be a great place to ask any questions you have, seek help with projects, or just to chat with other people about programming
+
+- The [CS50 Discord Server](https://discord.gg/cs50) is a great resource for if you're going through CS50
+- The [Python Discord Server](https://discord.gg/python) can answer any python questions you have
+- [The Coding Den](https://discord.gg/code) is a discord server for general coding stuff
+- There are plenty of other communities on discord, reddit, and slack. It shouldn't be too hard to find them with google
+  
