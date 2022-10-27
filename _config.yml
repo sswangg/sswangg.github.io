@@ -42,8 +42,8 @@ round-avatar: true
 social-network-links:
   email: "314660@aaps.k12.mi.us"
   github: sswangg
-  instagram: pihicompsci
-  #discord: https://discord.com/invite/igmc
+  # instagram: pihicompsci
+  discord: https://discord.gg/2U68QYUrjY
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
