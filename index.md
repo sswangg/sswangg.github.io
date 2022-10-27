@@ -83,17 +83,6 @@ img {vertical-align: middle;}
   background-color: #717171;
 }
 
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
@@ -104,26 +93,26 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides">
   <div class="numbertext">1 / 3</div>
   <img src="img1.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides">
   <div class="numbertext">2 / 3</div>
   <img src="img2.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides">
   <div class="numbertext">3 / 3</div>
   <img src="img3.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
-<a class="prev" onclick="plusSlides(-1)">❮</a>
-<a class="next" onclick="plusSlides(1)">❯</a>
+<a class="prev" onclick="changeSlides(-1)">❮</a>
+<a class="next" onclick="changeSlides(1)">❯</a>
 
 </div>
 <br>
@@ -138,7 +127,7 @@ img {vertical-align: middle;}
 let slideIndex = 1;
 showSlides(slideIndex);
 
-function plusSlides(n) {
+function changeSlide(n) {
   showSlides(slideIndex += n);
 }
 
