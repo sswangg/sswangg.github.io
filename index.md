@@ -94,44 +94,50 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides">
-  <div class="numbertext">1 / 7</div>
+  <div class="numbertext">1 / 8</div>
   <img src="img1.jpg" style="width:100%">
   <div class="text">Club members work on problems together after a talk about binary searches</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">2 / 7</div>
+  <div class="numbertext">2 / 8</div>
   <img src="img2.jpg" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">3 / 8</div>
   <img src="img7.jpg" style="width:100%">
   <div class="text">Sophia, co-president, gives an overview of coding competitions the club will attend</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">3 / 7</div>
+  <div class="numbertext">4 / 8</div>
   <img src="img6.jpg" style="width:100%">
   <div class="text">Students compete in the MSU HSPC from Pioneer</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">4 / 7</div>
+  <div class="numbertext">5 / 8</div>
   <img src="img3.jpg" style="width:100%">
   <div class="text">Students crowd together and try to solve a past USACO problem</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">5 / 7</div>
+  <div class="numbertext">6 / 8</div>
   <img src="img4.jpg" style="width:100%">
   <div class="text">Various awards from programming competitions</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">7 / 8</div>
   <img src="img5.jpg" style="width:100%">
   <div class="text">Various awards from programming competitions</div>
+</div>
+
+<div class="mySlides">
+  <div class="numbertext">8 / 8</div>
+  <img src="img8.jpg" style="width:100%">
+  <div class="text">Bake sale!</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -148,6 +154,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(5)"></span> 
   <span class="dot" onclick="currentSlide(6)"></span> 
   <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
 </div>
 
 <script>
