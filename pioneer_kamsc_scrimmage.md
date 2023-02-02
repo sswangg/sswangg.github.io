@@ -15,9 +15,11 @@ title: Pioneer+KAMSC Programming Scrimmage
 - 1 computer per team, we will provide them
 - Free to participate
 - Limited to 27 people per school
+- Registration priority given to teams with at least one female or non-binary participant
 - Snacks and prizes provided :)
 
-**Practice problem:** www.hackerrank.com/msu-hspc-2018-practice
+**Practice problem:** [www.hackerrank.com/msu-hspc-2018-practice](www.hackerrank.com/msu-hspc-2018-practice)
+
 Note: it's supposed to be "except" not "accept"
 
 ![](comp_map.png)
