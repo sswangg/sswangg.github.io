@@ -10,9 +10,10 @@ author: Sophia Wang
 
 navbar-links:
   About: https://sswangg.github.io
+  Competition: pionner_kamsc_scrimmage
   Resources:
     - Get Started: getstarted
-    - CS at Pio: csatpio
+    - Club Materials: club_materials
     - Events: events_opportunities
   #  - Cool Stuff: coolstuff
   #  - Comp Coding: compprogramming

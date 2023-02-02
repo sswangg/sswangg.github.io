@@ -94,48 +94,42 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides">
-  <div class="numbertext">1 / 8</div>
+  <div class="numbertext">1 / 7</div>
   <img src="img1.jpg" style="width:100%">
   <div class="text">Club members work on problems together after a talk about binary searches</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">2 / 8</div>
+  <div class="numbertext">2 / 7</div>
   <img src="img2.jpg" style="width:100%">
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">3 / 8</div>
+  <div class="numbertext">3 / 7</div>
   <img src="img7.jpg" style="width:100%">
   <div class="text">Sophia, co-president, gives an overview of coding competitions the club will attend</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">4 / 8</div>
+  <div class="numbertext">4 / 7</div>
   <img src="img6.jpg" style="width:100%">
   <div class="text">Students compete in the MSU HSPC from Pioneer</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">5 / 8</div>
+  <div class="numbertext">5 / 7</div>
   <img src="img3.jpg" style="width:100%">
   <div class="text">Students crowd together and try to solve a past USACO problem</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">6 / 8</div>
-  <img src="img4.jpg" style="width:100%">
-  <div class="text">Various awards from programming competitions</div>
-</div>
-
-<div class="mySlides">
-  <div class="numbertext">7 / 8</div>
+  <div class="numbertext">6 / 7</div>
   <img src="img5.jpg" style="width:100%">
   <div class="text">Various awards from programming competitions</div>
 </div>
 
 <div class="mySlides">
-  <div class="numbertext">8 / 8</div>
+  <div class="numbertext">7 / 7</div>
   <img src="img8.jpg" style="width:100%">
   <div class="text">Bake sale!</div>
 </div>
@@ -154,7 +148,6 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(5)"></span> 
   <span class="dot" onclick="currentSlide(6)"></span> 
   <span class="dot" onclick="currentSlide(7)"></span> 
-  <span class="dot" onclick="currentSlide(8)"></span> 
 </div>
 
 <script>
@@ -191,10 +184,10 @@ function showSlides(n) {
 </body>
 </html>
 
-Coding Club is a club at Pioneer High School where students mess around with code, go to coding competitions, and have fun. With 50 official members and over 30 people attending every club lunch meeting, we're one of the largest clubs at Pioneer. Anyone with an interest in technology is welcome to join, and no experience is required.
+Coding Club is a club at Pioneer High School where students mess around with code, go to programming competitions, and have fun. With 50 official members and over 30 people attending every club lunch meeting, we're one of the largest clubs at Pioneer. Anyone with an interest in technology is welcome to join, and no experience is required.
 
 One of the main focuses of the club is competitive programming, which is a mind sport where participants write programs to solve problems and are judged off of factors such as how long the program takes to run, how quickly you finish, and how much memory the program takes. Pioneer has historically had success at programming competitions like this as can be seen in this [news article](https://news.a2schools.org/pioneer-high-school-coding-team-excels-at-recent-competitions/). We **_CRUSHED_** the competiton at MSU last year too, but the details slipped away. Blame covid. 
 
-Competitive programming isn't the pnly thing we do though. Join the club to potentially hold events teaching basic coding, meet professionals, and just learn! If this sounds interesting to you, email Sophia at 314660@aaps.k12.mi.us
+Competitive programming isn't the only thing we do though. Join the club to hold events teaching basic coding, meet professionals, go to hackathons, and just learn! If this sounds interesting to you, email Sophia at 314660@aaps.k12.mi.us
 
 Note: the [source code](https://github.com/sswangg/sswangg.github.io) for this website is publicly available.
