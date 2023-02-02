@@ -4,7 +4,7 @@ title: Pioneer+KAMSC Programming Scrimmage
 ---
 
 
-**Team registration form:** https://forms.gle/pPm49y9FQu7kJKwh8
+**Team registration form:** [https://forms.gle/pPm49y9FQu7kJKwh8](https://forms.gle/pPm49y9FQu7kJKwh8)
 
 **Note**: You must fill out the form again if you filled it out before Thursday, February 2nd. Registration deadline is February 9th.
 
